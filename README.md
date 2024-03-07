@@ -174,7 +174,9 @@ int main(int argc, char **argv)
 ```
 ## OUTPUT
 ![1](https://github.com/Rishi-M007/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/113497512/22bf3684-093e-4f65-a914-db035065f4f4)
+### blocksize=1203
 ![2](https://github.com/Rishi-M007/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/113497512/dc16c65a-4874-4a28-b77d-8066ff4221a6)
+### blocksize=256
 ![3](https://github.com/Rishi-M007/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/113497512/03f875c7-27f7-4c64-b503-9bd06ebb05d2)
 
 ## RESULT:
